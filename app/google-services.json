@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444772422137",
+    "project_id": "chatup-2ee56",
+    "storage_bucket": "chatup-2ee56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444772422137:android:d6486b2c494e035f682d28",
+        "android_client_info": {
+          "package_name": "com.optic.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOQuuDqE-lptfmtaz5xBxr588YPOfmZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
